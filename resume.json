@@ -1,0 +1,163 @@
+{
+    "basics": {
+        "name": "Dinellys Gutierrez",
+        "label": "Human Resources Professional | Psychologist | People Management",
+        "email": "dinellys@me.com",
+        "summary": "Bilingual Psychologist (English-Spanish), with more than 10 years of experience in all processes related to human resources and personnel administration. Experience in management HR performance indicators, development of employee retention strategies, communication, disciplinary processes, social responsibility, massive hiring and legal issues related to the area.  Leader with the ability to develop work teams focused on meeting the company's objectives.",
+        "location": {
+            "countryCode": "CO"
+        },
+        "phone": "+573006717934",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "dinellys",
+                "url": "https:\/\/www.linkedin.com\/in\/dinellys"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Sutherland",
+            "highlights": [
+              "Leading of the processes concerning the Human Resources area",
+              "Creation and monitoring of control strategies for staff turnover",
+              "Creation of strategies for volunteering and social awareness.",
+              "Creation of staff retention strategies",
+              "Management of Human Resources local team",
+              "Creation and delivery of reports of HR area",
+              "Follow up on the goals and indicators of the Human Resources department",
+              "Participation in the internal and external selection processes",
+              "Support in the resolution of internal conflicts",
+              "Follow-up to disciplinary processes and terminations",
+              "Development of communication strategies"
+            ],
+            "position": "Human Resources Manager",
+            "startDate": "2018-10-01",
+            "endDate": "2020-05-01"
+        },
+        {
+            "company": "Sutherland",
+            "highlights": [
+              "Analyze attrition data and work closely with HR Manager in action plan creation towards attrition reduction goals",
+              "Support and execute employee retention action plans",
+              "Disciplinary processes support",
+              "Coordination of hiring and social benefits",
+              "Payroll support",
+              "Audit social security enrollment for all staff",
+              "Support and create HR reports for different metrics",
+              "Support conflict management resolution among employees in operative positions ",
+              "Management of local employee data base"
+            ],
+            "position": "Senior Professional Human Resources",
+            "startDate": "2012-05-01",
+            "endDate": "2018-09-30"
+        },
+        {
+            "company": "Sutherland",
+            "highlights": [
+              "Perform training in: soft skills, customer service and sales strategies",
+              "Update incoming waves of employees in client processes and systems",
+              "Deliver reports on training metrics   ",
+              "Monitoring performance of trained employees within the first 3 months of production ",
+              "Development and implementation of action plans to increase performance of trained employees within the first 30 days of production",
+              "Support service delivery team in retraining, performance evaluation processes for trained employees within the first 6 months of hitting production floor"
+            ],
+            "position": "Sales and Tech Trainer",
+            "startDate": "2010-08-01",
+            "endDate": "2012-05-01"
+        },
+        {
+            "company": "POSTOBON S.A.",
+            "highlights": [
+              "Perform external selection processes for different areas of the company according to requirements and needs (Sales, Accounting, Upper Management and Tech)",
+              "Application of performance evaluations. ",
+              "Organization of activities to support Well-being",
+              "Home visits for retired employees ",
+              "Interviews and psychological tests to retired personnel and their family members",
+              "Onboarding for incoming employees at all levels (Management, Admin, operative and interns)"
+            ],
+            "position": "Internship",
+            "startDate": "2009-11-01",
+            "endDate": "2010-05-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad del Norte",
+            "area": "Humanidades",
+            "studyType": "Psic\u00f3loga - Minor Psicolog\u00eda Econ\u00f3mica y del Consumidor",
+            "startDate": "2008-01-01",
+            "endDate": "2010-01-01"
+        },
+        {
+            "institution": "University of Valencia",
+            "area": "Humanidades",
+            "studyType": "Cursos Psicolog\u00eda Vocacional, Psicolog\u00eda Social, Psicolog\u00eda del Desarrollo",
+            "startDate": "2005-01-01",
+            "endDate": "2006-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Customer Service"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Performance Management"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Employee Engagement"
+        },
+        {
+            "name": "Liderazgo de equipos"
+        },
+        {
+            "name": "Servicio de atenci\u00f3n al cliente"
+        },
+        {
+            "name": "Direcci\u00f3n"
+        },
+        {
+            "name": "Direcci\u00f3n y desarrollo de equipos de trabajo"
+        },
+        {
+            "name": "Administraci\u00f3n y direcci\u00f3n de empresas"
+        },
+        {
+            "name": "Liderazgo"
+        },
+        {
+            "name": "Entrenamiento"
+        },
+        {
+            "name": "Formaci\u00f3n"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingl\u00e9s",
+            "fluency": "Full professional"
+        }
+    ]
+}
