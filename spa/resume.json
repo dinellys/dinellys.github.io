@@ -1,0 +1,143 @@
+{
+    "basics": {
+        "name": "Dinellys Gutierrez",
+        "label": "Profesional de Recursos Humanos | Psicóloga",
+        "email": "dinellys@me.com",
+        "summary": "A través de los años he aprendido algo muy importante: Siempre puedes enseñarle a alguien cómo hacer las cosas, sin embargo, no los puedes forzar a tener Buena actitud respecto a ellas.  Esto es algo en lo que considero soy muy buena: Puedo habilidad de saber enseñarle a la  gente y puedo liderar equipos hasta llevarlos a realizar un gran trabajo con una actitud extraordinaria.   Ser una psicóloga con más de 10 años de experiencia en Recursos Humanos y la industria del BPO me ha dado el conocimiento en muchos procesos relacionados a área: Estrategías de retención de empleados, comunicación organizacional, procesos disciplinarios, responsabilidad social corporativa, contrataciones masivas y context legal.  Habiendo trabajado en esta industria me ha provisto con habilidades de liderazgo fortalecidas, estas, me han ayudado a promover el desarrollo personal y profesional de los equipos que he tenido a cargo, al igual que mantenerlos con desempeño de altos estándares.  Esto ultimo, considero que es altamente valioso para las organizaciones de estos tiempos, no solo se debe enfocar trabajar en los procesos, si no que además, se debe trabajar mano a mano con la gente, quien en últimas son los encargados de trabajar por los resultados que los hacen competitivos en el mercado.  Este sería mi grano de arena:  Hacerlos mejor como organización para hacernos los mejores como equipo. Puedo compartirles que fuera del trabajo, amo trabajar en mi desarrollo personal, tomo cursos libres de “Self awareness”, me enfoco sobretodo en el trabajo con las emociones y cómo identificarlas.  En mi tiempo libre realmente no hago cosas muy diferentes que la mayoría de ustedes: voy al cine, escucho música, paseo con mi mascota, paso tiempo con mi familia y tengo la serie “Friends” continuamente reproduciéndose en Netflix.",
+        "location": {
+            "countryCode": "CO"
+        },
+        "phone": "+573006717934",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "dinellys",
+                "url": "https:\/\/www.linkedin.com\/in\/dinellys"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Sutherland",
+            "highlights": [
+              "Coordinación de los procesos concernientes al área de Recursos Humanos",
+              "Creación y seguimiento de estrategias de control para rotación de personal, participación en voluntariado y conciencia social, y retención de personal",
+              "Coordinación de personal del departamento de Recursos Humanos",
+              "Seguimiento a las metas e indicadores del área",
+              "Colaboración en los procesos de selección interna y externa",
+              "Apoyo en la resolución de conflictos internos",
+              "Seguimiento a procesos disciplinarios y descargos",
+              "Elaboración de estrategias de comunicación"
+            ],
+            "position": "Gerente de Recursos Humanos",
+            "startDate": "2018-10-01",
+            "endDate": "2020-05-01"
+        },
+        {
+            "company": "Sutherland",
+            "highlights": [
+              "Apoyar en estrategias de retención de personal",
+              "Analizar datos para control de rotación",
+              "Ejecución de procesos disciplinarios",
+              "Apoyar directamente la contratación masiva de personal",
+              "Elaboración de nómina",
+              "Auditoria a las afiliaciones del personal en seguridad social",
+              "Elaboración de reportes del departamento",
+              "Dar resolución y dar manejo a los conflictos",
+              "Manejo y administración de la base de datos local de empleados"
+            ],
+            "position": "Generalista de Recursos Humanos",
+            "startDate": "2012-05-01",
+            "endDate": "2018-09-30"
+        },
+        {
+            "company": "Sutherland",
+            "highlights": [
+              "Capacitar al personal con respecto a habilidades blandas, servicio al cliente, estrategias de venta",
+              "Entrenar de acuerdo con las especificaciones y requerimientos del producto del cliente",
+              "Generación de reportes sobre los entrenamientos impartidos",
+              "Desarrollo e implementación de estrategías para incremento de desempeño de personal entrenado dentro de los primeros 30 días productivos en su labor",
+              "Seguimiento de desempeño de personal entrenado dentro de los primeros 3 meses de su labor",
+              "Apoyo en procesos de retroalimentación, reentrenamiento y evaluación de desempeño al personal entrenado dentro de los primeros 6 meses de su labor"
+            ],
+            "position": "Entrenadora especialista en Ventas y Telecomunicaciones",
+            "startDate": "2010-08-01",
+            "endDate": "2012-05-01"
+        },
+        {
+          "company": "POSTOBON S.A.",
+          "highlights": [
+            "Realizar los procesos de selección externos a diferentes áreas de la empresa de acuerdos a los requerimientos y necesidades",
+            "Aplicación de evaluaciones de desempeño",
+            "Organización de actividades para apoyo a Bienestar",
+            "Realización de visitas domiciliarias",
+            "Entrevistas y evaluaciones psicosociales a personal jubilado de la compañía y su entorno familiar",
+            "Capacitación de nuevos empleados a nivel Gerencial, Administrativo y practicantes: inducción de la compañía e introducción a su cargo"
+          ],
+          "position": "Internship",
+          "startDate": "2009-11-01",
+          "endDate": "2010-05-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad del Norte",
+            "area": "Humanidades",
+            "studyType": "Psic\u00f3loga - Minor Psicolog\u00eda Econ\u00f3mica y del Consumidor",
+            "startDate": "2008-01-01",
+            "endDate": "2010-01-01"
+        },
+        {
+            "institution": "University of Valencia",
+            "area": "Humanidades",
+            "studyType": "Cursos Psicolog\u00eda Vocacional, Psicolog\u00eda Social, Psicolog\u00eda del Desarrollo",
+            "startDate": "2005-01-01",
+            "endDate": "2006-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Servicio al cliente"
+        },
+        {
+            "name": "Liderazgo"
+        },
+        {
+            "name": "Manejo del desempeño"
+        },
+        {
+            "name": "Gerencia de proyectos"
+        },
+        {
+            "name": "Diseño de beneficios para empleados"
+        },
+        {
+            "name": "Recursos Humanos (RRHH)"
+        },
+        {
+            "name": "Psicología"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Entrenamiento"
+        },
+        {
+            "name": "Administración de personal"
+        },
+        {
+            "name": "Comunicación"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "fluency": "Profesional"
+        },
+        {
+            "language": "Español",
+            "fluency": "Nativo"
+        }
+    ]
+}

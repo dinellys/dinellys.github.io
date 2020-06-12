@@ -1,9 +1,9 @@
 {
     "basics": {
         "name": "Dinellys Gutierrez",
-        "label": "Human Resources Professional | Psychologist | People Management",
+        "label": "Human Resources Professional | Psychologist",
         "email": "dinellys@me.com",
-        "summary": "Bilingual Psychologist (English-Spanish), with more than 10 years of experience in all processes related to human resources and personnel administration. Experience in management HR performance indicators, development of employee retention strategies, communication, disciplinary processes, social responsibility, massive hiring and legal issues related to the area.  Leader with the ability to develop work teams focused on meeting the company's objectives.",
+        "summary": "Something I have learned through the years is: You can always teach someone how to do things, but you cannot force them to have a good attitude towards them. This is something I'm really good at: I can teach people and I can lead teams and get them to do a great job with outstanding attitude. Being a Psychologist with more than 10 years of experience in Human resources processes and BPO has given me with the knowledge in several processes in this area: employee retention strategies, organisational communication, disciplinary processes, social responsibility, massive hiring and legal background. All this time being exposed to the industry has provided me with strong leadership skills promoting team personal and professional growth and keeping high quality standards in performance. I really think this would be valuable in organisations now a days, we not only work with processes but with people who in turn (and ultimately) deliver results for companies and make them competitive in the market, so, this is what I would bring to the table: To make you better, to make us The Best! Outside work I love to spend time working on my personal development, taking self awareness courses, focusing in work with emotions and how to identify them… my spare time is pretty much like yours for sure: going to the movies, music, walks with my pet, time with my family and having \"Friends\" on repeat on Netflix.",
         "location": {
             "countryCode": "CO"
         },
@@ -58,7 +58,7 @@
             "highlights": [
               "Perform training in: soft skills, customer service and sales strategies",
               "Update incoming waves of employees in client processes and systems",
-              "Deliver reports on training metrics   ",
+              "Deliver reports on training metrics",
               "Monitoring performance of trained employees within the first 3 months of production ",
               "Development and implementation of action plans to increase performance of trained employees within the first 30 days of production",
               "Support service delivery team in retraining, performance evaluation processes for trained employees within the first 6 months of hitting production floor"
@@ -100,64 +100,50 @@
     ],
     "skills": [
         {
-            "name": "Management"
-        },
-        {
             "name": "Customer Service"
-        },
-        {
-            "name": "Training"
-        },
-        {
-            "name": "Leadership"
-        },
-        {
-            "name": "Performance Management"
-        },
-        {
-            "name": "Team Management"
-        },
-        {
-            "name": "Microsoft Excel"
         },
         {
             "name": "Team Leadership"
         },
         {
+            "name": "Management"
+        },
+        {
+            "name": "Performance Management"
+        },
+        {
             "name": "Project Management"
         },
         {
-            "name": "Employee Engagement"
+            "name": "Employee Benefits Design"
         },
         {
-            "name": "Liderazgo de equipos"
+            "name": "Human Resources (HR)"
         },
         {
-            "name": "Servicio de atenci\u00f3n al cliente"
+            "name": "Psychology"
         },
         {
-            "name": "Direcci\u00f3n"
+            "name": "Microsoft Excel"
         },
         {
-            "name": "Direcci\u00f3n y desarrollo de equipos de trabajo"
+            "name": "Training"
         },
         {
-            "name": "Administraci\u00f3n y direcci\u00f3n de empresas"
+            "name": "People Engagement"
         },
         {
-            "name": "Liderazgo"
-        },
-        {
-            "name": "Entrenamiento"
-        },
-        {
-            "name": "Formaci\u00f3n"
+            "name": "Communication"
         }
     ],
     "languages": [
         {
-            "language": "Ingl\u00e9s",
+            "language": "English",
             "fluency": "Full professional"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Native"
         }
     ]
 }
